@@ -5,6 +5,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0] - 2025-08-13
+
 ### Added
 
 - New public function `Get-CurrentDateTime` that returns the current date and time in ISO 8601 format.
