@@ -45,6 +45,7 @@ BuildWorkflow:
     - test
 
   build:
+    - Init
     - Clean
     - Build_Module_ModuleBuilder
     - Build_NestedModules_ModuleBuilder
