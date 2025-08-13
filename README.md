@@ -5,7 +5,7 @@ None
 ## Make it yours
 
 ---
-Generated witsadsaasdh Plaster and the SampleModule template
+Generated with Plaster and the SampleModule template
 
 
 This is a sample Readme
