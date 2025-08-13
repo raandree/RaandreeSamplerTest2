@@ -142,8 +142,9 @@ TaskHeader: |
   Write-Build DarkGray "  $($Task.InvocationInfo.ScriptName):$($Task.InvocationInfo.ScriptLineNumber)"
   ""
 
-
-
-
-
-
+GitHubConfig:
+  GitHubFilesToAdd:
+    - 'CHANGELOG.md'
+  GitHubConfigUserName: raandree
+  GitHubConfigUserEmail: r.andree@live.com
+  UpdateChangelogOnPrerelease: false
