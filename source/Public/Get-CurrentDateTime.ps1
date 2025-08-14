@@ -15,5 +15,6 @@ Author: Raandree
 function Get-CurrentDateTime {
     [CmdletBinding()]
     param ()
-    return (Get-Date).ToString('yyyy-MM-ddTHH:mm:ss')
+
+    Get-Date -Format "yyyy-MM-ddTHH:mm:ss"
 }
