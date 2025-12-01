@@ -10,6 +10,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Created Memory Bank documentation for future collaborative work.
 - Added complete comment-based help to `Test-Is64BitOperatingSystem`.
 - Unit test for `Test-Is64BitOperatingSystem`.
+- Comprehensive README.md with project scope, features, usage examples, and development guidelines.
+
+### Changed
+
+- Updated README.md from minimal template to full documentation including overview, features, installation, usage examples, development guide, versioning strategy, contributing guidelines, CI/CD pipeline details, and technology stack.
 
 ### Fixed
 
