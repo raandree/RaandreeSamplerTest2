@@ -5,6 +5,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Created Memory Bank documentation for future collaborative work.
+- Added complete comment-based help to `Test-Is64BitOperatingSystem`.
+- Unit test for `Test-Is64BitOperatingSystem`.
+
+### Fixed
+
+- Fixed `Test-Is64BitOperatingSystem` implementation - now correctly returns boolean value instead of trying to access properties on boolean.
+
 ## [0.2.0] - 2025-08-13
 
 ### Added
